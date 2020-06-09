@@ -1,11 +1,11 @@
-# Customer-Segmentation
+# What is Customer-Segmentation?
 
 As the name suggests, this project is about dividing the customer group into different segments. The idea is to group customers who share similar characteristics. How these groups are formed are based on business objectives and the data available. Through this project we can derive insights into Customer LifeTime Value, Purchase Channel and Product proclivities, so a business can tap into the information to guide future decisions.
 
+Customer segmentation can be achieved using a variety of customer demographics such as age, gender, marital status, etc. However, such information is not easily available. What is easily available is TRANSACTIONAL DATA (Customer Accounts, Invoices, Invoice Dates and Times, etc.) How can the customers, now be segmented?
 
+Although it depends on the business objectives, lets use RFM (Recency, Frequency and Monetary Value) metrics to identify high value and low value customers of the business, so that they can be used for marketing purposes.
 
-
-Identifying high value customers and low value of customers of an online retail store using RFM modelling
 
 # Data
 The data was based on the past purchases of the customers, so, it had information like Invoice number, data of purchase, item purchased, quantity and unit prices of each item purchased.
