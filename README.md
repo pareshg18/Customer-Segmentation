@@ -7,10 +7,9 @@ Customer segmentation can be achieved using a variety of customer demographics s
 Although it depends on the business objectives, lets use RFM (Recency, Frequency and Monetary Value) metrics to identify high value and low value customers of the business, so that they can be used for marketing purposes.
 
 # Data
-The data was based on the past purchases of the customers, so, it had information like Invoice number, data of purchase, item purchased, quantity and unit prices of each item purchased.
+The data was obtained from UCI Machine Learning repository https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
-![alt text](https://github.com/[pareshg18]/[Customer-Segmentation]/blob/[branch]/data.png?raw=true)
-
+![data](https://user-images.githubusercontent.com/45079009/84124483-24087280-a9f0-11ea-9b6c-75ac28f26589.PNG)
 
 
 # Feature Engineering
