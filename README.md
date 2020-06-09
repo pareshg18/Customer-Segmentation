@@ -16,9 +16,9 @@ The data was obtained from UCI Machine Learning repository https://archive.ics.u
 
 As previously mentioned, the data did not include any demographic information of the customers, so using the new metrics to segment!
 
-#1. RECENCY -- How recently has the customer made his/her purchase?
-#2. FREQUENCY -- How frequent is the customer? How many purchases over the given time frame?
-#3. MONETARY VALUE -- How much amount does each customer bring in?
+1. RECENCY -- How recently has the customer made his/her purchase?
+2. FREQUENCY -- How frequent is the customer? How many purchases over the given time frame?
+3. MONETARY VALUE -- How much amount does each customer bring in?
 
 
 # Modelling - Using k-means!!!
