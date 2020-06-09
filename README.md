@@ -9,7 +9,7 @@ Although it depends on the business objectives, lets use RFM (Recency, Frequency
 # Data
 The data was based on the past purchases of the customers, so, it had information like Invoice number, data of purchase, item purchased, quantity and unit prices of each item purchased.
 
-![alt text](https://github.com/[pareshg18]/[Customer-Segmentation]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[pareshg18]/[Customer-Segmentation]/blob/[branch]/data.png?raw=true)
 
 
 
