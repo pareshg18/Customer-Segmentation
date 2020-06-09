@@ -12,11 +12,9 @@ The data was obtained from UCI Machine Learning repository https://archive.ics.u
 ![data](https://user-images.githubusercontent.com/45079009/84124483-24087280-a9f0-11ea-9b6c-75ac28f26589.PNG)
 
 
-# Feature Engineering
+# RFM (Recency, Frequency and Monetary Value) Variables
 
-The data set did not include any demographic information of the customers, so i came up with new metrics to segment them!
-
-I used the RFM model. I calculated 3 different scores for each customer:
+As previously mentioned, the data did not include any demographic information of the customers, so using the new metrics to segment!
 
 #1. RECENCY -- How recently has the customer made his/her purchase?
 #2. FREQUENCY -- How frequent is the customer? How many purchases over the given time frame?
