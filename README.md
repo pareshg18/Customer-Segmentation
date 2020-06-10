@@ -42,34 +42,21 @@ In this project, outliers are VERY IMPORTANT ! Outliers are customers who are ei
 1. K-MEANS gives disjoint sets - I wanted each customer to belong to one and only one segment!
 2. The data set had around 541,000 customers. Therefore, time complexity could be an issue. K-means has a linear time complexity O(n) as opposed to hierarchical which has a quadratic complexity - O(n^2)!
 
-### What should be the optimal number of clusters?
+### Optimal number of clusters?
 
 To get the optimal number of clusters -- we can do a number of things ---
-1. Elbow method - Gave us 3 cluster solution 
+1. Elbow method - Gave me 2 or 3 cluster solution 
 2. Silhouette method - Gave me 2 cluster solution
-3. Gap - Statistic method - Gave me 2 cluster solution
+3. Gap - Statistic method - Gave me 6 cluster solution
 
-![elbow](https://user-images.githubusercontent.com/45079009/84262492-918ccf80-aad2-11ea-8d62-5dec4435985e.PNG)
-![gap-statistic](https://user-images.githubusercontent.com/45079009/84262494-92256600-aad2-11ea-89bd-d6c34f209b2d.PNG)
-![silhouette](https://user-images.githubusercontent.com/45079009/84262495-92bdfc80-aad2-11ea-85ba-04710547f0b9.PNG)
+![elbow](https://user-images.githubusercontent.com/45079009/84262492-918ccf80-aad2-11ea-8d62-5dec4435985e.PNG) ![gap-statistic](https://user-images.githubusercontent.com/45079009/84262494-92256600-aad2-11ea-89bd-d6c34f209b2d.PNG) ![silhouette](https://user-images.githubusercontent.com/45079009/84262495-92bdfc80-aad2-11ea-85ba-04710547f0b9.PNG)
 
 
+# Final Cluster Solution
 
-
---- Visualize different cluster solution
-
-
-# Final Analysis
-
-As the number of clusters increase, there interpretability is also affected.
-
-- Cluster analysis with 2 clusters seems overly simplified!
-
-- Cluster analysis with 3 clusters basically gives cluster 3 as high value customers, cluster 1 and 2 are similar (low value!)
-
---- 3d cluster solution
+-- insert 3d pic
 
 
 # My take
 
-The decision should be based upon how the business plans to use the results, and the level of granularity they want to see in the clusters. I'd suggest 4 number of clusters should be good --- Cluster 4 -- high value customers; Cluster 1 and Cluster 2 -- mid value customers and Cluster 3 are the zero value customers with low frequency and low revenue and are not very recent.
+The decision should be based upon how the business plans to use the results, and the level of granularity they want to see in the clusters. In my opinion, 4 cluster-solution should be the best, where 1 group is high value customers; 2 groups mid value customers and 1 group being the zero value/low value customers with low frequency and low revenue and who were not very recent.
