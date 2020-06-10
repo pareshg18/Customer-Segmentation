@@ -30,7 +30,7 @@ This is a very hard to read, reason being our RFM variables are highly skewed!
 
 ### Transformed RFM
 
-![outliers_transformed](https://user-images.githubusercontent.com/45079009/84261331-715c1100-aad0-11ea-97c5-88d027781469.png)
+![outliers_transformed](https://user-images.githubusercontent.com/45079009/84324040-ca599280-ab2c-11ea-84d7-b58eef9d905a.png)
 
 In this project, outliers are VERY IMPORTANT ! Outliers are customers who are either high value customers or are low value customers! Both of these groups present useful information. Therefore, I will include them in the analysis!
 
