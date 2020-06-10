@@ -30,15 +30,9 @@ This is a very hard to read, reason being our RFM variables are highly skewed!
 
 ### Transformed RFM
 
--- Add new graph
+![outliers_transformed](https://user-images.githubusercontent.com/45079009/84261331-715c1100-aad0-11ea-97c5-88d027781469.png)
 
-Much better. Now, ....
-
--- Add pareto analysis result pic
-
-Around 72% of the sales are caused by 28% of the customers. 
- 
-In our project, outliers are VERY IMPORTANT ! Outliers are customers who are either high value customers or are low value customers! Both of these groups present useful information. Therefore, I will include them in the analysis!
+In this project, outliers are VERY IMPORTANT ! Outliers are customers who are either high value customers or are low value customers! Both of these groups present useful information. Therefore, I will include them in the analysis!
 
 
 # Modelling - Using k-means!!!
