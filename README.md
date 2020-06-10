@@ -24,7 +24,7 @@ As previously mentioned, the data did not include any demographic information of
 
 The rule says that more or less, 80% of the results come from the 20% of the causes! In this context, 80% of sales are caused by 20% of the customers. Meaning, top 20% customers contribute most to the sales -- these are our high value customers!
 
--- Add graph
+![outliers](https://user-images.githubusercontent.com/45079009/84260997-dfec9f00-aacf-11ea-840c-109c080541ea.png)
 
 This is a very hard to read, reason being our RFM variables are highly skewed!
 
