@@ -54,7 +54,7 @@ To get the optimal number of clusters -- we can do a number of things ---
 
 # Final Cluster Solution
 
--- insert 3d pic
+![final solution](https://user-images.githubusercontent.com/45079009/84268346-5bece400-aadc-11ea-95d4-b23007db7bba.PNG)
 
 
 # My take
