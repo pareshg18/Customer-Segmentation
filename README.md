@@ -37,7 +37,7 @@ In this project, outliers are VERY IMPORTANT ! Outliers are customers who are ei
 
 # Modelling - Using k-means!!!
 
-# Why did I use k-means?
+### Why did I use k-means?
 
 1. K-MEANS gives disjoint sets - I wanted each customer to belong to one and only one segment!
 2. The data set had around 541,000 customers. Therefore, time complexity could be an issue. K-means has a linear time complexity O(n) as opposed to hierarchical which has a quadratic complexity - O(n^2)!
