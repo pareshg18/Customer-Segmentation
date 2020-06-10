@@ -49,7 +49,7 @@ To get the optimal number of clusters -- we can do a number of things ---
 2. Silhouette method - Gave me 2 cluster solution
 3. Gap - Statistic method - Gave me 2 cluster solution
 
--- add pics of all three
+![elbow](https://user-images.githubusercontent.com/45079009/84261483-b122f880-aad0-11ea-8a21-412f5b97c72b.PNG)
 
 
 
