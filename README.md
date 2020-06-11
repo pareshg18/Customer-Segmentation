@@ -1,3 +1,5 @@
+-- THIS ANALYSIS IS DONE IN R USING JUPYTER NOTEBOOK --
+
 # What is Customer-Segmentation?
 
 As the name suggests, this project is about dividing the customer group into different segments. The idea is to group customers who share similar characteristics. How these groups are formed are based on business objectives and the data available. Through this project we can derive insights into Customer LifeTime Value, Purchase Channel and Product proclivities, so a business can tap into the information to guide future decisions.
